@@ -2,7 +2,7 @@
   "development": {
    "username": "paymentsiq_production_user",
     "password": "GbcxtqE6sdQODS12JhHzYMEiCU1PsA1R",
-    "database": "waytoshare",
+    "database": "paymentsiq_production",
     "host": "postgres://paymentsiq_production_user:GbcxtqE6sdQODS12JhHzYMEiCU1PsA1R@dpg-cgc97l9mbg55nqhunhr0-a/paymentsiq_production",
     "port":5432,
     "dialect": "postgres",
@@ -11,7 +11,7 @@
   "test": {
     "username": "paymentsiq_production_user",
     "password": "GbcxtqE6sdQODS12JhHzYMEiCU1PsA1R",
-    "database": "waytoshare",
+    "database": "paymentsiq_production",
     "host": "postgres://paymentsiq_production_user:GbcxtqE6sdQODS12JhHzYMEiCU1PsA1R@dpg-cgc97l9mbg55nqhunhr0-a/paymentsiq_production",
     "port":5432,
     "dialect": "postgres",
@@ -20,7 +20,7 @@
   "production": {
     "username": "paymentsiq_production_user",
     "password": "GbcxtqE6sdQODS12JhHzYMEiCU1PsA1R",
-    "database": "waytoshare",
+    "database": "paymentsiq_production",
     "host": "postgres://paymentsiq_production_user:GbcxtqE6sdQODS12JhHzYMEiCU1PsA1R@dpg-cgc97l9mbg55nqhunhr0-a/paymentsiq_production",
     "port":5432,
     "dialect": "postgres",
