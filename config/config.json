@@ -1,9 +1,9 @@
 {
   "development": {
-    "username": "postgres",
-    "password": "postgres",
+   "username": "paymentsiq_production_user",
+    "password": "GbcxtqE6sdQODS12JhHzYMEiCU1PsA1R",
     "database": "waytoshare",
-    "host": "127.0.0.1",
+    "host": "postgres://paymentsiq_production_user:GbcxtqE6sdQODS12JhHzYMEiCU1PsA1R@dpg-cgc97l9mbg55nqhunhr0-a/paymentsiq_production",
     "port":5432,
     "dialect": "postgres",
     "operatorsAliases": false
